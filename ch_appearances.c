@@ -1,5 +1,5 @@
 int main(){
-  char ch , max_ch,str[100];
+char ch , max_ch,str[100];
 int i , len , max_times , low_let[26] = {0};
 int dig[10] = {0};
 printf("enter text : ");
